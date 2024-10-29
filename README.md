@@ -1,8 +1,10 @@
-# # Women Empowerment
-A platform where women can seek guidance, gain knowledge, and learn everything they need to empower themselves.
+# Women Empowerment
+In a group project focused on women empowerment, we developed a comprehensive platform aimed at creating a supportive community for women in various areas of their lives. The platform empowers women by providing spaces for community engagement, resources for growth, and tools for self-expression and support. Built with a blend of modern web technologies, the project offers a seamless and user-friendly experience.
+
+As the frontend developer, I took responsibility for designing and implementing the user interface, ensuring it was accessible and intuitive. I worked with technologies like HTML, CSS, and JavaScript to create responsive layouts and interactive elements that enhance user engagement. Collaborating closely with backend developers, I integrated dynamic data and ensured smooth functionality across the platform. This project gave me valuable experience in frontend development and taught me the importance of building user-centered applications. Together, our team delivered a platform that aligns with our goal of empowering women, offering them a safe, resourceful space online.
 
 
-# # Key Features
+# Key Features
 + Providing Learning
 + Providing Supports
 + Community Forume to raise a voices
@@ -11,8 +13,6 @@ A platform where women can seek guidance, gain knowledge, and learn everything t
 + News Updating
 + Feedback Section
 
-# PPT Link 
-https://docs.google.com/presentation/d/1OfstLxZ1Ly_lwc2_y2PqT9w4QoxyCK8g/edit?usp=sharing&ouid=104860668751385055910&rtpof=true&sd=true
 
 # used technologies
 + HTML/CSS, 
